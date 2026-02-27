@@ -1,52 +1,61 @@
 # 📊 HR Data Analytics Dashboard – Power BI
 
-🔗 Repository Link:  
-https://github.com/baalaaravinth/HR-Data-Analytics-PowerBI
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?logo=powerbi)
+![DAX](https://img.shields.io/badge/Language-DAX-blue)
+![Analytics](https://img.shields.io/badge/Domain-HR_Analytics-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ---
 
 ## 📌 Project Overview
-This project presents an interactive HR Analytics Dashboard built using Power BI to analyze workforce trends, employee attrition, salary insights, and key HR KPIs.
+
+This project presents an interactive **HR Data Analytics Dashboard** built using Power BI to analyze workforce trends, employee attrition, salary insights, and key HR KPIs.  
+
+The dashboard helps HR teams make data-driven decisions to improve employee retention and workforce planning.
 
 ---
 
 ## 🎯 Objectives
-- Analyze employee attrition rate
-- Identify salary distribution patterns
-- Study department-wise workforce insights
-- Provide data-driven HR decision support
+
+- Analyze employee attrition rate  
+- Identify salary distribution patterns  
+- Study department-wise workforce insights  
+- Track gender and experience distribution  
+- Support strategic HR decision-making  
 
 ---
 
 ## 📊 Key KPIs
-- Attrition Rate
-- Average Salary
-- Employee Count
-- Gender Distribution
-- Department-wise Analysis
+
+- 🔹 Total Employees  
+- 🔹 Attrition Rate  
+- 🔹 Average Salary  
+- 🔹 Gender Distribution  
+- 🔹 Department-wise Employee Count  
+- 🔹 Salary vs Experience Analysis  
 
 ---
 
-## 🛠 Tools Used
-- Power BI
-- DAX
-- Excel / CSV Dataset
+## 🛠 Tools & Technologies Used
+
+- **Power BI**
+- **DAX (Data Analysis Expressions)**
+- **Excel / CSV Dataset**
+- Data Cleaning & Visualization Techniques
 
 ---
 
-## 📷 Dashboard Preview
-(Screenshots available in the Images folder)
+## 📷 Dashboard Screenshots
+
+### 🔹 Overview Dashboard
+![Overview](Images/overview.png)
+
+### 🔹 Attrition Analysis
+![Attrition](Images/attrition.png)
+
+### 🔹 Salary Distribution
+![Salary](Images/salary_analysis.png)
 
 ---
 
-## 📚 Reference
-Inspired by publicly available Power BI dashboard projects under:
-https://github.com/topics/power-bi-dashboard
-
----
-
-## 🚀 Insights Generated
-- Departments with highest attrition
-- Salary vs Experience correlation
-- Gender-based workforce analysis
-- Workforce distribution by job role
+## 📂 Project Structure

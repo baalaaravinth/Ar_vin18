@@ -1,7 +1,52 @@
-# :octocat:Dashboard👇
-![Screenshot 2023-07-28 152259](https://github.com/yashdoshi12/Sales_report_using_PowerBi/assets/39629707/23e117f3-fd1d-4c0b-a0a7-391795d3ca79)
+# 📊 HR Data Analytics Dashboard – Power BI
 
-<hr />
-<br />
+🔗 Repository Link:  
+https://github.com/baalaaravinth/HR-Data-Analytics-PowerBI
 
-# <div align="center">Don't forget to leave a star ⭐️</div>
+---
+
+## 📌 Project Overview
+This project presents an interactive HR Analytics Dashboard built using Power BI to analyze workforce trends, employee attrition, salary insights, and key HR KPIs.
+
+---
+
+## 🎯 Objectives
+- Analyze employee attrition rate
+- Identify salary distribution patterns
+- Study department-wise workforce insights
+- Provide data-driven HR decision support
+
+---
+
+## 📊 Key KPIs
+- Attrition Rate
+- Average Salary
+- Employee Count
+- Gender Distribution
+- Department-wise Analysis
+
+---
+
+## 🛠 Tools Used
+- Power BI
+- DAX
+- Excel / CSV Dataset
+
+---
+
+## 📷 Dashboard Preview
+(Screenshots available in the Images folder)
+
+---
+
+## 📚 Reference
+Inspired by publicly available Power BI dashboard projects under:
+https://github.com/topics/power-bi-dashboard
+
+---
+
+## 🚀 Insights Generated
+- Departments with highest attrition
+- Salary vs Experience correlation
+- Gender-based workforce analysis
+- Workforce distribution by job role
